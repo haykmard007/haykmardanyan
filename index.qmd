@@ -1,6 +1,8 @@
 # Hayk Mardanyan
 
-*Applied Economist • Data Scientist*
+*Applied Economist • PhD Student at the University of Minnesota*
+
+![Picture of Hayk Mardanyan on background of nature.](personal_picture.jpg)
 
 - I study economics and energy markets.
 - I teach data analysis and quantitative methods.
