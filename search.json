@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research\nMy research focuses on:\n\nEnergy economics and electricity markets\nApplied econometrics\nPolicy evaluation\n\nSome of my work can be found in my GitHub projects."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hayk Mardanyan",
+    "section": "",
+    "text": "Hayk Mardanyan\nApplied Economist • Data Scientist\n\nI study economics and energy markets.\nI teach data analysis and quantitative methods.\nI build reproducible research and data visualizations.\n\nGitHub Profile"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nYou can reach me at:\n\nEmail: your.email@example.com\nGitHub: your_github_username\nLinkedIn: Your Name"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\nHere are some selected projects:\n\nEnergy Efficiency Analysis: Code and results from my Minnesota Department of Commerce internship.\nData Visualization Tools: Scripts and dashboards for applied economics courses.\nQuarto Website Demo: This website itself is built with Quarto.\n\nCheck the full list on my GitHub."
+  }
+]
