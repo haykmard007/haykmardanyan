@@ -2,9 +2,9 @@
 
 *Applied Economist • PhD Student at the University of Minnesota*
 
-!(personal_picture.jpg){width=200px}
+![](personal_picture.jpg){width=50px}
 
-- I study economics and energy markets.
+- My research interests focus on electricity markets and energy efficiency.
 - I teach data analysis and quantitative methods.
 - I build reproducible research and data visualizations.
 

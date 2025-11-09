@@ -123,7 +123,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#projects" id="toc-projects" class="nav-link active" data-scroll-target="#projects">Projects</a></li>
+  <li><a href="#projects" id="toc-projects" class="nav-link active" data-scroll-target="#projects">Projects</a>
+  <ul class="collapse">
+  <li><a href="#papers" id="toc-papers" class="nav-link" data-scroll-target="#papers">Papers</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -135,15 +138,18 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="projects" class="level1">
 <h1>Projects</h1>
-<p>Here are some selected projects:</p>
-<ul>
-<li><strong>Energy Efficiency Analysis</strong>: Code and results from my Minnesota Department of Commerce internship.</li>
-<li><strong>Data Visualization Tools</strong>: Scripts and dashboards for applied economics courses.</li>
-<li><strong>Quarto Website Demo</strong>: This website itself is built with Quarto.</li>
-</ul>
-<p>Check the full list on <a href="https://github.com/your_github_username">my GitHub</a>.</p>
+<section id="papers" class="level3">
+<h3 class="anchored" data-anchor-id="papers">Papers</h3>
+<details>
+<summary>
+The Effect of the Demand-Side Management Financial Incentive Program on Energy Savings: Evidence from Minnesota
+</summary>
+<p><strong>Abstract:</strong><br>
+In Minnesota, the Public Utilities Commission (PUC) allocates annual financial incentives to investor-owned electric and gas utilities through the Demand-Side Management (DSM) Financial Incentive Program, rewarding utilities for achieving energy savings thresholds. The program is designed to offset energy companies’ disincentive to save energy due to the resulting loss in energy sales volume and revenues. While utilities consistently advocate for increased financial incentives, critics argue the awards are excessive and call for program scaling. This paper estimates the causal effect of an additional dollar in financial incentives on energy savings (kWh), using lagged average winter temperatures as an instrument. We find that each additional incentive dollar generates a first-year energy savings increase of 5.34 kWh, corresponding to a 53.5-cent first-year return and an average present discounted lifetime return of $6.65 per dollar spent, indicating that investments in the DSM Financial Incentive Program are financially justified. These results imply a present discounted value of $327.05 in lifetime savings for the average residential ratepayer in Minnesota. The study situates these findings within the broader context of net benefits accrued to Minnesota residents from energy efficiency programs administered by the state’s investor-owned electric and gas utilities.</p>
+</details>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
