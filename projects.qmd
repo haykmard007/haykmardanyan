@@ -1,0 +1,9 @@
+# Projects
+
+Here are some selected projects:
+
+- **Energy Efficiency Analysis**: Code and results from my Minnesota Department of Commerce internship.
+- **Data Visualization Tools**: Scripts and dashboards for applied economics courses.
+- **Quarto Website Demo**: This website itself is built with Quarto.
+
+Check the full list on [my GitHub](https://github.com/your_github_username).

@@ -1,0 +1,9 @@
+# Research
+
+My research focuses on:
+
+- Energy economics and electricity markets
+- Applied econometrics
+- Policy evaluation
+
+Some of my work can be found in [my GitHub projects](https://github.com/your_github_username?tab=repositories).
