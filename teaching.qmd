@@ -1,0 +1,7 @@
+# Teaching
+
+### APEC 1201: Applications of Excel in Economics and Management
+
+Fall 2024-Present
+
+The course introduces the fundamental functions and features of Microsoft Excel, emphasizing data visualization and presentation skills. Students learn best practices for visually communicating data—creating clear, engaging tables and graphs—along with more advanced Excel tools such as optimization, regression, and macros.

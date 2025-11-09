@@ -10,6 +10,8 @@ website:
         href: index.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
       - text: "Projects"
         href: projects.qmd
       - text: "Contact"
