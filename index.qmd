@@ -2,10 +2,11 @@
 
 *Applied Economist • PhD Student at the University of Minnesota*
 
-![](personal_picture.jpg){width=100px}
+*Minneapolis, MN, USA*
 
-- My research interests focus on electricity markets and energy efficiency.
-- I teach data analysis and quantitative methods.
-- I build reproducible research and data visualizations.
+![](personal_picture.jpg){width=500px}
 
-[GitHub Profile](https://github.com/haykmard007)
+
+## Biography
+
+Hayk Mardanyan is a PhD student in Applied Economics at the University of Minnesota. Prior to this, he has received a Bachelor of Science degree in Economics and Mathematics from the University of Minnesota, and a Master of Science degree in Applied Economics from the University of Minnesota. Hayk Mardanyan has worked closely with the Minnesota Department of Commerce, collaborating with state economists on projects ranging from the evaluation of investor-owned utilities' energy efficiency programs, the role of weather derivatives in wholesale electricity markets, and the impact of tariffs on retail electricity prices. Hayk Mardanyan has also interned at the Central Bank of the Republic of Armenia, advising the Bank on areas of diversification for the economy in order to reduce economic reliance on foreign sources and diversify its energy portfolio. Hayk's current research interests include energy economics and applied econometrics.

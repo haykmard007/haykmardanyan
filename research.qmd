@@ -11,18 +11,11 @@ Some of my work can be found below.
 
 ### Papers
 
-<details>
-<summary><a href="https://journals.ysu.am/index.php/bulletin-ysu-economics/article/view/vol15_no2_2024_pp005-018" target="_blank">Armenia’s Dependence on Foreign Countries and Sources in Key Economic and Financial Sectors</a></summary>
-
-**Abstract:**  
-The Republic of Armenia's economic and financial sectors are heavily reliant on foreign countries, particularly the Russian Federation. This reliance spans critical areas, including energy, agriculture, trade, transportation, foreign direct investment (FDI), and remittances. This report evaluates the risks associated with Armenia's dependence on a narrow set of external partners and underscores the need for economic diversification. Key highlights are that the majority of Armenia’s natural gas and petroleum imports originate from Russia, while its agricultural trade, machinery imports, and textile exports also exhibit significant concentration. Additionally, Russian entities dominate strategic infrastructure such as telecommunications and rail transport, as well as electricity generation, transmission and distribution. Remittances from Russia have constituted an average of 60% of total remittance inflows in 2013-2022, further exposing Armenia to external economic shocks. Such dependence threatens Armenia's economic sovereignty, heightening vulnerability to foreign economic leverage and periods of economic instability abroad. To mitigate these risks, the report advocates for diversification of trade partnerships, investments, and domestic production, aiming to bolster resilience, encourage innovation, and foster sustainable economic growth.
-
-</details>
+### The Effect of the Demand-Side Management Financial Incentive Program on Energy Savings: Evidence from Minnesota
 
 <details>
-<summary>The Effect of the Demand-Side Management Financial Incentive Program on Energy Savings: Evidence from Minnesota</summary>
+<summary>Abstract</summary>
 
-**Abstract:**  
 In Minnesota, the Public Utilities Commission (PUC) allocates annual financial
 incentives to investor-owned electric and gas utilities through the Demand-Side
 Management (DSM) Financial Incentive Program, rewarding utilities for achieving
